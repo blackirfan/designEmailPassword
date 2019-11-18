@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google material design</string>
+
+
+    <string name="button_label_enabled">Google material design</string>
+    <string name="button_label_disabled">Google material design</string>
+    <string name="unelevated_button_label_enabled">Google material design</string>
+
+</resources>
